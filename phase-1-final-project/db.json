@@ -1,0 +1,78 @@
+{
+    "majors": [
+       {
+            "id": 1,
+            "name": "A Maj", 
+            "spelling": ["A", "C#", "E"],
+            "accidentals": 1
+
+        },
+        {
+            "id": 2,
+            "name": "Bb Maj", 
+            "spelling": ["Bb", "D", "F"],
+            "accidentals": 1
+
+        },
+        {
+            "id": 3,
+            "name": "B Maj", 
+            "spelling": ["B", "D#", "F#"],
+            "accidentals": 2
+        },
+        {
+            "id": 4,
+            "name": "C Maj", 
+            "spelling": ["C", "E", "G"],
+            "accidentals": null
+        },
+        {
+            "id": 5,
+            "name": "Db Maj", 
+            "spelling": ["Db", "F", "Ab"],
+            "accidentals": 2
+        },
+        {
+            "id": 6,
+            "name": "D Maj", 
+            "spelling": ["D", "F#", "A"],
+            "accidentals": 1
+        },
+        {
+            "id": 7,
+            "name": "Eb Maj", 
+            "spelling": ["Eb", "G", "Bb"],
+            "accidentals": 2
+        },
+        {
+            "id": 8,
+            "name": "E Maj", 
+            "spelling": ["E", "G#", "B"],
+            "accidentals": 1
+        },
+        {
+            "id": 9,
+            "name": "F Maj", 
+            "spelling": ["F", "A", "C"],
+            "accidentals": null
+        },
+        {
+            "id": 10,
+            "name": "Gb Maj", 
+            "spelling": ["Gb", "Bb", "Db"],
+            "accidentals": 3
+        },
+        {
+            "id": 11,
+            "name": "G Maj", 
+            "spelling": ["G", "B", "D"],
+            "accidentals": null
+        },
+        {
+            "id": 12,
+            "name": "Ab Maj", 
+            "spelling": ["Ab", "C", "Eb"],
+            "accidentals": 2
+        }
+    ]
+}
